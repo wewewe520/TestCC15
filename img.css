@@ -1,0 +1,47 @@
+h1{
+    color :white;
+    background-color: black;
+    border: 2px solid red;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+    margin: 10px 0px 30px 0px;
+}
+h1:hover{
+    color :black;
+    background-color: lightgray;
+    border: 2px solid red;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+    margin: 10px 0px 30px 0px;
+}
+.group1{
+    background-color: aqua;
+    border: 2px solid orange;
+    padding: 10px;
+    width: 50vw;
+}
+.group2{
+    background-color: orange;
+    border: 2px solid red;
+}
+#text1{
+    color: white;
+    background-color: orange;
+    border: 2px solid white;
+    width: 50px;
+}
+.img{
+    width: 200px;
+}
+.container{
+    display: flex;
+    border: 2 px solid red;
+    flex-direction: row;
+}
+.item{
+    border: 2 px solid red;
+}
